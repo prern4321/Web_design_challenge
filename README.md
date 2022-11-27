@@ -8,9 +8,10 @@ Index.html file which generates the landing file
 html_data jupyter file which converts the  csv file to HTML 
 Data Page and A comparisons page as requested in the  assignmennt  
 
-Attached below  is a screenshot of the website 
+Attached below  is a screenshot of the website which contains the drop down menu name plots  which contains a link to the navigation bar,comparison which links to the comparison page , data which links to teh datda page .
 
-![image](https://user-images.githubusercontent.com/112128775/204139322-c22fed95-167b-44f3-8110-019ac5d79133.png)
+
+![image](https://user-images.githubusercontent.com/112128775/204139377-7c5f7ff1-cd28-4f5f-81a3-676263348576.png)
 
 
 
